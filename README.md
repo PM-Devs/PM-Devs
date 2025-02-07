@@ -9,8 +9,7 @@
 
 ## 🔥 Professional Summary
 
-I'm an innovative and versatile Software & A.I Engineer with extensive experience in backend development, AI implementation, and system administration. I possess strong leadership skills, a passion for open-source software, and a commitment to producing high-quality, thoroughly tested code. I’m currently seeking a challenging Python Developer role at Canonical, where I can contribute to cutting-edge projects and be part of a dynamic, forward-thinking team.
-
+I'm an innovative and versatile Software & A.I Engineer with extensive experience in backend development, AI implementation, and system administration. I possess strong leadership skills, a passion for open-source software, and a commitment to producing high-quality, thoroughly tested code.
 ---
 
 ## 🛠️ Skills
