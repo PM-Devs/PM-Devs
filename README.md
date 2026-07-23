@@ -1,4 +1,4 @@
-# Prince Dzorkpe
+# Prince Mawuko Dzorkpe
 
 Software engineer in Takoradi, Ghana. I build backends, data pipelines and AI systems — mostly Python and TypeScript, mostly things that have to keep running after I stop looking at them.
 
